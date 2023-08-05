@@ -1528,13 +1528,13 @@ footer{
 
    @media (max-width:480px) {
     html{
-        font-size: 30%;
+        font-size: 20%;
     }
    }
 
    @media (max-width:300px) {
     html{
-        font-size: 20%;
+        font-size: 18%;
     }
     .grid-sec{
         display: none;
